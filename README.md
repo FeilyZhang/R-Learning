@@ -13,4 +13,4 @@ R is an integrated suite of software facilities for data manipulation, calculati
 ### Catalog
 1. [R语言简介及环境配置](https://github.com/FeilyZhang/R-Learning/blob/master/learning/R%E8%AF%AD%E8%A8%80%E7%AE%80%E4%BB%8B%E5%8F%8A%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE.md)
 2. [R对象的模式和属性](https://github.com/FeilyZhang/R-Learning/blob/master/learning/R%E5%AF%B9%E8%B1%A1%E7%9A%84%E6%A8%A1%E5%BC%8F%E5%92%8C%E5%B1%9E%E6%80%A7.md)
-3. [向量及其运算](https://github.com/FeilyZhang/R-Learning/blob/master/learning/%E5%90%91%E9%87%8F%E5%8F%8A%E5%85%B6%E8%BF%90%E7%AE%97.md)
+3. [数据结构：向量及其运算](https://github.com/FeilyZhang/R-Learning/blob/master/learning/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%EF%BC%9A%E5%90%91%E9%87%8F%E5%8F%8A%E5%85%B6%E8%BF%90%E7%AE%97.md)
