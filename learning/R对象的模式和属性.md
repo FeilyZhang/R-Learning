@@ -177,7 +177,7 @@ R中的所有对象都有一个类，可以通过class(object)查看，对于简
 
 然后既可以得到下图
 
-![Weekly maximum temperature chart](https://feily.tech/image/temperature.png)
+![Weekly maximum temperature chart](https://cdn.nlark.com/yuque/0/2019/png/257195/1549437167767-11a79518-0c75-4d1f-941e-71fe3e3247a3.png)
 
 还可以将x与y组织成数据帧形式，再绘图，如下
 
@@ -197,7 +197,7 @@ R中的所有对象都有一个类，可以通过class(object)查看，对于简
 
 绘制的图片如下
 
-![Weekly maximum temperature chart](https://feily.tech/image/temperature1.png)
+![Weekly maximum temperature chart](https://cdn.nlark.com/yuque/0/2019/png/257195/1549437167767-11a79518-0c75-4d1f-941e-71fe3e3247a3.png)
 
 数据帧的原始输出像极了矩阵，而可以通过unclass函数将数据帧按列打印成列表，如下
 
