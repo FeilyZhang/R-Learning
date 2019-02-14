@@ -1,4 +1,5 @@
 # R语言函数与字符串操作
+> 注：本文部分示例来自[https://www.yiibai.com/r/r_strings.html](https://www.yiibai.com/r/r_strings.html)
 ### R语言函数
 R语言函数的定义，原型如下
 ```
