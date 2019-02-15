@@ -23,3 +23,4 @@ R is an integrated suite of software facilities for data manipulation, calculati
 10. [R语言中的选择与循环结构](https://github.com/FeilyZhang/R-Learning/blob/master/learning/R%E8%AF%AD%E8%A8%80%E4%B8%AD%E7%9A%84%E9%80%89%E6%8B%A9%E4%B8%8E%E5%BE%AA%E7%8E%AF%E7%BB%93%E6%9E%84.md)
 11. [R语言函数与字符串操作](https://github.com/FeilyZhang/R-Learning/blob/master/learning/R%E8%AF%AD%E8%A8%80%E5%87%BD%E6%95%B0%E4%B8%8E%E5%AD%97%E7%AC%A6%E4%B8%B2%E6%93%8D%E4%BD%9C.md)
 12. [R数据源(一)](https://github.com/FeilyZhang/R-Learning/blob/master/learning/R%E6%95%B0%E6%8D%AE%E6%BA%90(%E4%B8%80).md)
+13. [R数据源(二)](https://github.com/FeilyZhang/R-Learning/blob/master/learning/R%E6%95%B0%E6%8D%AE%E6%BA%90(%E4%BA%8C).md)
