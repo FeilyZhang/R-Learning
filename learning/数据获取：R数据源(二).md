@@ -52,7 +52,7 @@ install.packages("XML")
 +     }
 + }
 ```
-对大量数据的有效处理，数据框是一个很好的数据对象，那么我们将的xml转化为数据框如何？直接使用xmlToDataFrame()函数即可
+对大量数据的有效处理，数据框是一个很好的数据对象，那么我们将的xml转化为数据框如何？直接使用`xmlToDataFrame()`函数即可
 ```
 > result <- xmlToDataFrame("C:\\Users\\Administrator\\Desktop\\jsontest.xml")
 > result
@@ -66,7 +66,7 @@ install.packages("XML")
 7  7    Simon  632.8  7/30/2013 Operations
 8  8     Guru  722.5  6/17/2014    Finance
 ```
-一目了然，再通过summary函数计算基本统计量
+一目了然，再通过`summary`函数计算基本统计量
 ```
 > summary(result)
        ID          NAME       SALARY       STARTDATE         DEPT  
