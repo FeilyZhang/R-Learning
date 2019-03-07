@@ -11,6 +11,8 @@ R is an integrated suite of software facilities for data manipulation, calculati
 > From R development documentation: http://127.0.0.1:24224/doc/manual/R-intro.html
 
 ### Catalog
+
+##### R语言基础
 1. [R语言简介及环境配置](https://github.com/FeilyZhang/R-Learning/blob/master/learning/R%E8%AF%AD%E8%A8%80%E7%AE%80%E4%BB%8B%E5%8F%8A%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE.md)
 2. [R对象的模式和属性](https://github.com/FeilyZhang/R-Learning/blob/master/learning/R%E5%AF%B9%E8%B1%A1%E7%9A%84%E6%A8%A1%E5%BC%8F%E5%92%8C%E5%B1%9E%E6%80%A7.md)
 3. [数据结构：向量及其运算](https://github.com/FeilyZhang/R-Learning/blob/master/learning/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%EF%BC%9A%E5%90%91%E9%87%8F%E5%8F%8A%E5%85%B6%E8%BF%90%E7%AE%97.md)
@@ -24,3 +26,6 @@ R is an integrated suite of software facilities for data manipulation, calculati
 11. [程序结构：R语言函数与字符串操作](https://github.com/FeilyZhang/R-Learning/blob/master/learning/%E7%A8%8B%E5%BA%8F%E7%BB%93%E6%9E%84%EF%BC%9AR%E8%AF%AD%E8%A8%80%E5%87%BD%E6%95%B0%E4%B8%8E%E5%AD%97%E7%AC%A6%E4%B8%B2%E6%93%8D%E4%BD%9C.md)
 12. [数据获取：R数据源(一)](https://github.com/FeilyZhang/R-Learning/blob/master/learning/%E6%95%B0%E6%8D%AE%E8%8E%B7%E5%8F%96%EF%BC%9AR%E6%95%B0%E6%8D%AE%E6%BA%90(%E4%B8%80).md)
 13. [数据获取：R数据源(二)](https://github.com/FeilyZhang/R-Learning/blob/master/learning/%E6%95%B0%E6%8D%AE%E8%8E%B7%E5%8F%96%EF%BC%9AR%E6%95%B0%E6%8D%AE%E6%BA%90(%E4%BA%8C).md)
+
+##### 数据探索
+14. [数据质量分析](https://github.com/FeilyZhang/R-Learning/blob/master/learning/%E6%95%B0%E6%8D%AE%E6%8E%A2%E7%B4%A2/%E6%95%B0%E6%8D%AE%E8%B4%A8%E9%87%8F%E5%88%86%E6%9E%90.md)
